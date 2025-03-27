@@ -9,12 +9,11 @@ Key Features
 ✅ Real-time Data Logging – Monitors system performance and maintains historical records.
 
 Technologies Used
-🔹 Embedded C / C++
+🔹 Embedded C
 🔹 STM32 HAL / LL Drivers
-🔹 LoRa Communication (E82G4M20S Module)
+🔹 LoRa Communication 
 🔹 I²C, SPI, UART Protocols
-🔹 RTOS (if applicable)
-
+🔹 RTOS 
 Project Structure
 📂 Basin/ – Water level sensor drivers & logic
 📂 Electrical_Pumps/ – Pump control drivers
